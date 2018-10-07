@@ -1,0 +1,4 @@
+Special Cases: 
+1. As everybody is aware that json changes very frequently, it couldn't be matched with the stored value. So out of 7 tests, maximum 1 error will be present.
+
+2. Due to changing season in weather, the values other variables may also change from the value stored on the internet and go out of the range of delta=5.
