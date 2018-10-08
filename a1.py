@@ -1,6 +1,6 @@
 #Name: Rahul Madaan
 #Roll No.2017179
-
+#Make use of basic functions and programming techniques without JSON package and rfind package
 #function to get weather response
 
 def weather_response(location, API_key):
